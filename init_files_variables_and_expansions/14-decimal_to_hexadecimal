@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "¹X\n" "$DECIAL"
+printf "¹X\n" "$DECMAL"
