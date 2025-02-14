@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "¹X\n" "$DECIMA"
+printf "¹X\n" "$DECIML"
